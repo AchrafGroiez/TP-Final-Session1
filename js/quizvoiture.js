@@ -7,7 +7,7 @@ envoyer.addEventListener('click', () => {
     }
     
     if(envoyer.className == "un"){
-        imgsource.src = "/img_video/fordescape.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/fordescape.jpg"
         imgsource.className = "on"
         choice1.checked = false
         choice2.checked = false
@@ -31,7 +31,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "deux"){
-        imgsource.src = "/img_video/rarevoiture.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/rarevoiture.jpg"
         imgsource.className = "on"
         envoyer.className = "trois"
         indicateur.innerText = "Question: 2/10"
@@ -78,7 +78,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "quatre"){
-        imgsource.src = "/img_video/mitsubishi.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/mitsubishi.jpg"
         imgsource.className = "on"
         envoyer.className = "cinq"
         indicateur.innerText = "Question: 4/10"
@@ -102,7 +102,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "cinq"){
-        imgsource.src = "/img_video/tesla.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/tesla.jpg"
         imgsource.className = "on"
         envoyer.className = "six"
         indicateur.innerText = "Question: 5/10"
@@ -126,7 +126,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "six"){
-        imgsource.src = "/img_video/infinity.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/infinity.jpg"
         imgsource.className = "on"
         envoyer.className = "sept"
         indicateur.innerText = "Question: 6/10"
@@ -150,7 +150,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "sept"){
-        imgsource.src = "/img_video/acura.png"
+        imgsource.src = "/TP-Final-Session1/img_video/acura.png"
         imgsource.className = "on"
         envoyer.className = "huit"
         indicateur.innerText = "Question: 7/10"
@@ -174,7 +174,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "huit"){
-        imgsource.src = "/img_video/citroen.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/citroen.jpg"
         imgsource.className = "on"
         envoyer.className = "neuf"
         indicateur.innerText = "Question: 8/10"
@@ -198,7 +198,7 @@ envoyer.addEventListener('click', () => {
     }
 
     else if(envoyer.className == "neuf"){
-        imgsource.src = "/img_video/accord.png"
+        imgsource.src = "/TP-Final-Session1/img_video/accord.png"
         imgsource.className = "on"
         envoyer.className = "dix"
         indicateur.innerText = "Question: 9/10"
@@ -223,7 +223,7 @@ envoyer.addEventListener('click', () => {
 
 
     else if(envoyer.className == "dix"){
-        imgsource.src = "/img_video/cadillac.jpg"
+        imgsource.src = "/TP-Final-Session1/img_video/cadillac.jpg"
         imgsource.className = "on"
         envoyer.className = "onze"
         envoyer.innerText = "envoyer"
