@@ -1,27 +1,3 @@
-const ouvrir = document.getElementById("ouvriretfermer")
-const content11 = document.getElementById("content11")
-const content12 = document.getElementById("content12")
-const faq1 = document.getElementById("faq1")
-ouvrir.addEventListener('click', () => {
-    if(ouvrir.innerText == "fermer"){
-        setTimeout(function off(){
-            content11.className = "off"
-            content12.className = "off";
-        }, 200)
-        faq1.className = "notactive"
-        ouvrir.innerText = "ouvrir";
-    }
-
-    else if(ouvrir.innerText == "ouvrir"){
-        faq1.className = "active"
-        ouvrir.innerText = "fermer";
-        setTimeout(function on(){
-            content11.className = "on"
-            content12.className = "on";
-        }, 420)
-    }
-})
-
 const ouvrir2 = document.getElementById("ouvriretfermer2")
 const content21 = document.getElementById("content21")
 const content22 = document.getElementById("content22")
@@ -65,29 +41,6 @@ ouvrir3.addEventListener('click', () => {
         }, 420)
     }
 })
-
-
-const ouvrir4 = document.getElementById("ouvriretfermer4")
-const content41 = document.getElementById("content41")
-const faq4 = document.getElementById("faq4")
-ouvrir4.addEventListener('click', () => {
-    if(ouvrir4.innerText == "ouvrir"){
-        setTimeout(function on4(){
-            content41.className = "on"
-        }, 200)
-        faq4.className = "active"
-        ouvrir4.innerText = "fermer";
-    }
-
-    else if(ouvrir4.innerText == "fermer"){
-        faq4.className = "notactive"
-        ouvrir4.innerText = "ouvrir";
-        setTimeout(function off4(){
-            content41.className = "off";
-        }, 420)
-    }
-})
-
 
 const ouvrir5 = document.getElementById("ouvriretfermer5")
 const content51 = document.getElementById("content51")
