@@ -151,7 +151,6 @@ ouvrir9.addEventListener('click', () => {
     }
 })
 
-
 const ouvrir10 = document.getElementById("ouvriretfermer10")
 const content101 = document.getElementById("content101")
 const faq10 = document.getElementById("faq10")
