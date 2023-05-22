@@ -1,5 +1,5 @@
 # TP-Final-Session1
-The link to access the gh-pages of this repertory / le lien pour accéder le gh-pages de ce répértoire :
+The link to access the gh-pages of this repertory is / le lien pour accéder le gh-pages de ce répértoire est :
 <a href="https://achrafgroiez.github.io/TP-Final-Session1/html/index.html" target="_blank">here / ici</a>
 
 ## ENGLISH
