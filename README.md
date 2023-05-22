@@ -1,6 +1,6 @@
 # TP-Final-Session1
 The link to access the gh-pages of this repertory / le lien pour accéder le gh-pages de ce répértoire :
-https://achrafgroiez.github.io/TP-Final-Session1/html/index.html
+<a href="https://achrafgroiez.github.io/TP-Final-Session1/html/index.html" target="_blank">https://achrafgroiez.github.io/TP-Final-Session1/html/index.html</a>
 
 ## ENGLISH
 This is my final project that I made in my school Cegep Marie-Victorin in the website making class, in the first session. In the file bibliographie.txt you have the sources that I used, maybe some links are missing.
