@@ -1,7 +1,6 @@
 # TP-Final-Session1
 
-<img src="https://github.com/AchrafGroiez/TP-Final-Session1/assets/112225386/dc9a2982-63c7-44de-96fa-cf9b5bfc1c7b" 
-     />
+![image](https://github.com/AchrafGroiez/TP-Final-Session1/assets/112225386/c7724796-38aa-4da4-8766-b5d5a18e606f)
 
 ## ENGLISH
 The link to access the website of this repertory is : <a href="https://achrafgroiez.github.io/TP-Final-Session1/html/index.html">here </a>
